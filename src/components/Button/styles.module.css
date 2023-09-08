@@ -1,0 +1,11 @@
+button.button {
+  background-size: 100% 100%;
+  background-position: 0px 0px, 0px 0px, 0px 0px, 10px 0px, 0px 0px, 0px 0px;
+  background-image: radial-gradient(
+      99% 138% at 51% 101%,
+      #ac00ff91 0%,
+      #073aff00 45%
+    ),
+    linear-gradient(195deg, #07ff51ff 0%, #00ffff00 45%),
+    linear-gradient(88deg, #ff0000ff 0%, #fff771ff 50%, #4664f6ff 100%);
+}
